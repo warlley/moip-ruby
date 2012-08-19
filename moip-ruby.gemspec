@@ -45,7 +45,7 @@ Gem::Specification.new do |s|
       s.add_development_dependency(%q<rspec>, ["~> 2.1.0"])
       s.add_development_dependency(%q<rspec>, ["~> 2.1.0"])
       s.add_development_dependency(%q<rspec>, ["~> 2.1.0"])
-      s.add_runtime_dependency(%q<nokogiri>, ["~> 1.4.3"])
+      s.add_runtime_dependency(%q<nokogiri>, ["~> 1.5.2"])
       s.add_runtime_dependency(%q<httparty>, ["~> 0.8.1"])
       s.add_runtime_dependency(%q<activesupport>, [">= 2.3.2"])
     else
